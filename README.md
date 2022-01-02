@@ -16,4 +16,4 @@ Imagine How cool it would be if you are able to predict the current prices of a 
 
 3) Model Building using ML - Using ML/Dl Algorithms.
 
-4) Model Building using Auto ML.
+4) Model Building using Auto ML. 
